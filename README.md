@@ -5,5 +5,5 @@ System Design Practice on various real-world Software Arch.
 
 ## Instagram System Design
 
-![Screenshot](screenshot.png)
+![Screenshot](insta design.drawio (1).png)
 
