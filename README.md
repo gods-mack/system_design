@@ -11,3 +11,7 @@ System Design Practice on various real-world Software Arch.
 ## Tinder System Design
 ![HLD](https://github.com/gods-mack/system_design/blob/25c81089fdf2dda821446216a9da054cc3ce1f41/photos/Tinder.png)
 
+
+## Notification System 
+![HLD](https://github.com/gods-mack/system_design/blob/28b8bd5bc7a8f6dbfdac9825a76a77f08eb75908/photos/NotificationSystem.drawio.png)
+
